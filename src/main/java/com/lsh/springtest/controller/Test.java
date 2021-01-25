@@ -10,6 +10,6 @@ public class Test {
 
     @PostMapping("test")
     public String getDelivery() {
-        return "test111222333";
+        return "test111222";
     }
 }
